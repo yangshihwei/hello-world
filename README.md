@@ -1,3 +1,3 @@
 # hello-world
 
-![alt tag](http://i.imgur.com/nDa9eWN.png)
+![alt tag](http://imgur.com/vBGX1kb)
